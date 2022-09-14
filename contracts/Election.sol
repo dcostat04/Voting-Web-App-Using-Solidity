@@ -19,9 +19,9 @@ contract Election {
 
     constructor () public {
         addCandidate("Bhartiya Janta Pary(BJP)");
-        addCandidate("Congress");
+        addCandidate("Congress(Cong)");
         addCandidate("Aam Aadmi Party(AAP)");
-        addCandidate("Shiv Sena");
+        addCandidate("Shiv Sena (SS)");
         addCandidate("Trinamool Congress(TMC)");
     }
 
